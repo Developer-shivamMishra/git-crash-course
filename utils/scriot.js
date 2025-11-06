@@ -16,3 +16,4 @@ function createCounter(init) {
         },
     }
 }
+createCounter(5)
