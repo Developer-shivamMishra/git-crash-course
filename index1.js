@@ -7,3 +7,8 @@ function show() {
 
 
 }
+
+function show2() {
+    console.log("this is b feat");
+
+}
