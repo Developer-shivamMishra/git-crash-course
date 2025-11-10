@@ -7,3 +7,13 @@ function show() {
 
 
 }
+
+function show2() {
+    console.log("this is b feat");
+
+}
+
+function show3() {
+    console.log("this is c feat");
+
+}
